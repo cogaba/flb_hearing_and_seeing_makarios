@@ -2,7 +2,7 @@
 (() => {
   "use strict";
   const $ = (s, r = document) => r.querySelector(s);
-  const BOOK_CACHE = "reading-room-books-v1";
+  const BOOK_CACHE = "reading-room-books-v3";
   let BOOKS = [];
   const BOOK_BY_ID = {};
   let activeCollection = "All";
@@ -87,6 +87,21 @@
     observeCovers();
   }
 
+  // Installed (Home Screen) app has no back button, so never navigate away from the library.
+  const isStandalone = () =>
+    window.navigator.standalone === true ||
+    window.matchMedia("(display-mode: standalone)").matches;
+
+  let handoffFrame = null;
+  function handOffToBooks(b) {
+    if (handoffFrame) { try { handoffFrame.remove(); } catch (_) {} }
+    handoffFrame = document.createElement("iframe");
+    handoffFrame.style.display = "none";
+    handoffFrame.src = encodeURI(b.file);
+    document.body.appendChild(handoffFrame);
+    showToast("Opening “" + b.title + "” in Books…");
+  }
+
   function card(b) {
     const el = document.createElement(IS_APPLE ? "a" : "button");
     el.className = "book";
@@ -94,6 +109,11 @@
       el.href = encodeURI(b.file);          // iPhone/iPad: hand the EPUB to Apple Books
       el.style.textDecoration = "none";
       el.style.color = "inherit";
+      el.addEventListener("click", (e) => {
+        if (!isStandalone()) return;        // Safari tab: normal link (Safari has a back button)
+        e.preventDefault();                 // Installed app: keep the library on screen
+        handOffToBooks(b);
+      });
     } else {
       el.type = "button";
       el.onclick = () => openReader(b);     // desktop: read inside the app
