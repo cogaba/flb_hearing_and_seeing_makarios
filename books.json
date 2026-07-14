@@ -1,0 +1,1044 @@
+{
+  "books": [
+    {
+      "id": "113-en-am-i-good-for-nothing",
+      "title": "Am I Good For Nothing?",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/113-en-am-i-good-for-nothing.epub",
+      "cover": "covers/113-en-am-i-good-for-nothing.jpg"
+    },
+    {
+      "id": "128-en-duality",
+      "title": "Duality",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/128-en-duality.epub",
+      "cover": "covers/128-en-duality.jpg"
+    },
+    {
+      "id": "060-en-faith-secrets",
+      "title": "Faith Secrets",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/060-en-faith-secrets.epub",
+      "cover": "covers/060-en-faith-secrets.jpg"
+    },
+    {
+      "id": "042-en-forgiveness-made-easy-3rd-ed",
+      "title": "Forgiveness Made Easy 3rd Edition",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/042-en-forgiveness-made-easy-3rd-ed.epub",
+      "cover": "covers/042-en-forgiveness-made-easy-3rd-ed.jpg"
+    },
+    {
+      "id": "122-en-frugality",
+      "title": "Frugality",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/122-en-frugality.epub",
+      "cover": "covers/122-en-frugality.jpg"
+    },
+    {
+      "id": "037-en-he-that-hath-to-him-shall-be-given-and-he-that-hath-not-from-him-shall-be-taken-even-that-which-he-hath",
+      "title": "He That Hath, To Him Shall Be Given: And He That Hath Not, From Him Shall Be Taken Even That Which He Hath",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/037-en-he-that-hath-to-him-shall-be-given-and-he-that-hath-not-from-him-shall-be-taken-even-that-which-he-hath.epub",
+      "cover": "covers/037-en-he-that-hath-to-him-shall-be-given-and-he-that-hath-not-from-him-shall-be-taken-even-that-which-he-hath.png"
+    },
+    {
+      "id": "090-en-hope-secrets",
+      "title": "Hope Secrets",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/090-en-hope-secrets.epub",
+      "cover": "covers/090-en-hope-secrets.jpeg"
+    },
+    {
+      "id": "063-en-how-can-i-say-thanks",
+      "title": "How Can I Say Thanks",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/063-en-how-can-i-say-thanks.epub",
+      "cover": "covers/063-en-how-can-i-say-thanks.jpg"
+    },
+    {
+      "id": "057-en-labour-to-be-blessed-labour-not-to-be-rich",
+      "title": "Labour to be blessed…labour not to be rich",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/057-en-labour-to-be-blessed-labour-not-to-be-rich.epub",
+      "cover": "covers/057-en-labour-to-be-blessed-labour-not-to-be-rich.jpg"
+    },
+    {
+      "id": "110-en-name-it-claim-it-take-it",
+      "title": "Name It Claim It Take It",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/110-en-name-it-claim-it-take-it.epub",
+      "cover": "covers/110-en-name-it-claim-it-take-it.png"
+    },
+    {
+      "id": "132-en-opportunities",
+      "title": "Opportunities",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/132-en-opportunities.epub",
+      "cover": "covers/132-en-opportunities.jpg"
+    },
+    {
+      "id": "025-en-others",
+      "title": "Others",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/025-en-others.epub",
+      "cover": "covers/025-en-others.png"
+    },
+    {
+      "id": "123-en-poison-taming-the-tongue",
+      "title": "Poison: Taming The Tongue",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/123-en-poison-taming-the-tongue.epub",
+      "cover": "covers/123-en-poison-taming-the-tongue.jpg"
+    },
+    {
+      "id": "074-en-ready-at-20",
+      "title": "Ready@20",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/074-en-ready-at-20.epub",
+      "cover": null
+    },
+    {
+      "id": "055-en-seven-great-principles",
+      "title": "Seven Great Principles",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/055-en-seven-great-principles.epub",
+      "cover": "covers/055-en-seven-great-principles.jpg"
+    },
+    {
+      "id": "118-en-tasters-and-partakers",
+      "title": "TASTERS AND PARTAKERS",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/118-en-tasters-and-partakers.epub",
+      "cover": "covers/118-en-tasters-and-partakers.jpeg"
+    },
+    {
+      "id": "052-en-the-determinants",
+      "title": "The Determinants",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/052-en-the-determinants.epub",
+      "cover": "covers/052-en-the-determinants.jpg"
+    },
+    {
+      "id": "127-en-the-secret",
+      "title": "The Secret",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/127-en-the-secret.epub",
+      "cover": "covers/127-en-the-secret.jpg"
+    },
+    {
+      "id": "102-en-the-tests-of-the-righteous",
+      "title": "The Tests of the Righteous",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/102-en-the-tests-of-the-righteous.epub",
+      "cover": "covers/102-en-the-tests-of-the-righteous.jpeg"
+    },
+    {
+      "id": "083-en-the-word-of-my-patience",
+      "title": "The Word Of My Patience",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/083-en-the-word-of-my-patience.epub",
+      "cover": "covers/083-en-the-word-of-my-patience.png"
+    },
+    {
+      "id": "032-en-victory-secrets",
+      "title": "Victory Secrets",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/032-en-victory-secrets.epub",
+      "cover": "covers/032-en-victory-secrets.png"
+    },
+    {
+      "id": "028-en-what-it-means-to-be-as-wise-as-a-serpent",
+      "title": "What it means to be as Wise as a Serpent",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/028-en-what-it-means-to-be-as-wise-as-a-serpent.epub",
+      "cover": "covers/028-en-what-it-means-to-be-as-wise-as-a-serpent.png"
+    },
+    {
+      "id": "036-en-why-non-tithing-christians-become-poor-and-how-tithing-christians-can-become-rich",
+      "title": "Why Non Tithing Christians Become Poor And Tithing Christians Become Rich",
+      "author": "Dag Heward-Mills",
+      "collection": "Christian Character & Wisdom",
+      "file": "epubs/036-en-why-non-tithing-christians-become-poor-and-how-tithing-christians-can-become-rich.epub",
+      "cover": "covers/036-en-why-non-tithing-christians-become-poor-and-how-tithing-christians-can-become-rich.png"
+    },
+    {
+      "id": "024-en-anagkazo-compelling-power-2nd-ed",
+      "title": "Anagkazo 2ED",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/024-en-anagkazo-compelling-power-2nd-ed.epub",
+      "cover": "covers/024-en-anagkazo-compelling-power-2nd-ed.png"
+    },
+    {
+      "id": "009-en-church-growth-it-is-possible",
+      "title": "Church Growth",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/009-en-church-growth-it-is-possible.epub",
+      "cover": "covers/009-en-church-growth-it-is-possible.png"
+    },
+    {
+      "id": "008-en-church-planting",
+      "title": "Church Planting",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/008-en-church-planting.epub",
+      "cover": "covers/008-en-church-planting.png"
+    },
+    {
+      "id": "075-en-enlargement-secrets",
+      "title": "Enlargement Secrets",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/075-en-enlargement-secrets.epub",
+      "cover": "covers/075-en-enlargement-secrets.png"
+    },
+    {
+      "id": "027-en-how-you-can-preach-salvation",
+      "title": "How You Can Preach Salvation",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/027-en-how-you-can-preach-salvation.epub",
+      "cover": "covers/027-en-how-you-can-preach-salvation.jpg"
+    },
+    {
+      "id": "050-en-make-yourselves-saviours-of-men",
+      "title": "Make Yourselves Saviours of Men",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/050-en-make-yourselves-saviours-of-men.epub",
+      "cover": "covers/050-en-make-yourselves-saviours-of-men.jpg"
+    },
+    {
+      "id": "066-en-1000-micro-churches",
+      "title": "One Thousand Micro Churches",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/066-en-1000-micro-churches.epub",
+      "cover": "covers/066-en-1000-micro-churches.jpg"
+    },
+    {
+      "id": "026-en-tell-them-120-reasons-why-you-should-be-a-soul-winner",
+      "title": "Tell Them",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/026-en-tell-them-120-reasons-why-you-should-be-a-soul-winner.epub",
+      "cover": "covers/026-en-tell-them-120-reasons-why-you-should-be-a-soul-winner.jpg"
+    },
+    {
+      "id": "082-en-the-church-must-send-or-it-will-end",
+      "title": "The Church Must Send or It Will End",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/082-en-the-church-must-send-or-it-will-end.epub",
+      "cover": "covers/082-en-the-church-must-send-or-it-will-end.png"
+    },
+    {
+      "id": "056-en-the-double-mega-missionary-church",
+      "title": "The Double Mega Missionary Church",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/056-en-the-double-mega-missionary-church.epub",
+      "cover": "covers/056-en-the-double-mega-missionary-church.jpg"
+    },
+    {
+      "id": "010-en-the-megachurch-2nd-ed",
+      "title": "The Mega Church",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/010-en-the-megachurch-2nd-ed.epub",
+      "cover": "covers/010-en-the-megachurch-2nd-ed.jpeg"
+    },
+    {
+      "id": "062-en-preparation-of-the-gospel",
+      "title": "The Preparation of the Gospel",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/062-en-preparation-of-the-gospel.epub",
+      "cover": "covers/062-en-preparation-of-the-gospel.jpeg"
+    },
+    {
+      "id": "088-en-why-is-this-church-not-working",
+      "title": "Why Is This Church Not Working?",
+      "author": "Dag Heward-Mills",
+      "collection": "Church Growth & Missions",
+      "file": "epubs/088-en-why-is-this-church-not-working.epub",
+      "cover": "covers/088-en-why-is-this-church-not-working.jpg"
+    },
+    {
+      "id": "076-en-be-faithful-unto-death",
+      "title": "Be Thou Faithful Unto Death",
+      "author": "",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/076-en-be-faithful-unto-death.epub",
+      "cover": "covers/076-en-be-faithful-unto-death.jpeg"
+    },
+    {
+      "id": "099-en-judas-who-is-he",
+      "title": "JUDAS Who is he??",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/099-en-judas-who-is-he.epub",
+      "cover": "covers/099-en-judas-who-is-he.jpg"
+    },
+    {
+      "id": "000-en-loyalty-disloyalty",
+      "title": "Loyalty and Disloyalty",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/000-en-loyalty-disloyalty.epub",
+      "cover": "covers/000-en-loyalty-disloyalty.png"
+    },
+    {
+      "id": "029-en-many-are-called",
+      "title": "Many Are Called",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/029-en-many-are-called.epub",
+      "cover": "covers/029-en-many-are-called.png"
+    },
+    {
+      "id": "007-en-one-of-you-is-a-devil",
+      "title": "One of You is a Devil",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/007-en-one-of-you-is-a-devil.epub",
+      "cover": "covers/007-en-one-of-you-is-a-devil.png"
+    },
+    {
+      "id": "101-en-pillars-of-loyalty",
+      "title": "Pillars of Loyalty",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/101-en-pillars-of-loyalty.epub",
+      "cover": "covers/101-en-pillars-of-loyalty.jpeg"
+    },
+    {
+      "id": "020-en-the-art-of-following",
+      "title": "The Art of Following",
+      "author": "[No data]",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/020-en-the-art-of-following.epub",
+      "cover": "covers/020-en-the-art-of-following.jpg"
+    },
+    {
+      "id": "001-en-those-who-accuse-you",
+      "title": "Those Who Accuse You",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/001-en-those-who-accuse-you.epub",
+      "cover": "covers/001-en-those-who-accuse-you.png"
+    },
+    {
+      "id": "003-en-those-who-are-dangerous-sons",
+      "title": "Those who are Dangerous Sons",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/003-en-those-who-are-dangerous-sons.epub",
+      "cover": "covers/003-en-those-who-are-dangerous-sons.jpg"
+    },
+    {
+      "id": "119-en-those-who-are-ignorant",
+      "title": "Those Who Are Ignorant",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/119-en-those-who-are-ignorant.epub",
+      "cover": "covers/119-en-those-who-are-ignorant.png"
+    },
+    {
+      "id": "112-en-those-who-are-mad",
+      "title": "Those who are mad",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/112-en-those-who-are-mad.epub",
+      "cover": "covers/112-en-those-who-are-mad.jpg"
+    },
+    {
+      "id": "084-en-those-who-are-offended",
+      "title": "Those Who Are Offended",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/084-en-those-who-are-offended.epub",
+      "cover": "covers/084-en-those-who-are-offended.png"
+    },
+    {
+      "id": "002-en-those-who-are-proud",
+      "title": "Those who are Proud",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/002-en-those-who-are-proud.epub",
+      "cover": "covers/002-en-those-who-are-proud.png"
+    },
+    {
+      "id": "093-en-those-who-are-slanderers",
+      "title": "Those Who Are Slanderers",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/093-en-those-who-are-slanderers.epub",
+      "cover": "covers/093-en-those-who-are-slanderers.jpeg"
+    },
+    {
+      "id": "092-en-those-who-are-wolves",
+      "title": "Those Who are Wolves",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/092-en-those-who-are-wolves.epub",
+      "cover": "covers/092-en-those-who-are-wolves.jpeg"
+    },
+    {
+      "id": "004-en-those-who-forget",
+      "title": "Those Who Forget",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/004-en-those-who-forget.epub",
+      "cover": "covers/004-en-those-who-forget.png"
+    },
+    {
+      "id": "058-en-those-who-honour-you",
+      "title": "Those Who Honour You",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/058-en-those-who-honour-you.epub",
+      "cover": "covers/058-en-those-who-honour-you.jpg"
+    },
+    {
+      "id": "005-en-those-who-leave-you",
+      "title": "Those who leave you",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/005-en-those-who-leave-you.epub",
+      "cover": "covers/005-en-those-who-leave-you.jpg"
+    },
+    {
+      "id": "095-en-those-who-make-shipwreck",
+      "title": "Those Who Make Shipwreck",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/095-en-those-who-make-shipwreck.epub",
+      "cover": "covers/095-en-those-who-make-shipwreck.jpeg"
+    },
+    {
+      "id": "006-en-those-who-pretend",
+      "title": "Those Who Pretend, Intimidate And Are Familiar",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/006-en-those-who-pretend.epub",
+      "cover": "covers/006-en-those-who-pretend.png"
+    },
+    {
+      "id": "094-en-those-who-rebel",
+      "title": "Those Who Rebel",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/094-en-those-who-rebel.epub",
+      "cover": null
+    },
+    {
+      "id": "067-en-why-few-are-chosen",
+      "title": "WHY FEW ARE CHOSEN",
+      "author": "DAG HEWARD-MILLS",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/067-en-why-few-are-chosen.epub",
+      "cover": "covers/067-en-why-few-are-chosen.jpg"
+    },
+    {
+      "id": "091-en-why-loyalty",
+      "title": "Why Loyalty?",
+      "author": "Dag Heward-Mills",
+      "collection": "Loyalty & Disloyalty",
+      "file": "epubs/091-en-why-loyalty.epub",
+      "cover": "covers/091-en-why-loyalty.jpeg"
+    },
+    {
+      "id": "125-en-all-about-fornication",
+      "title": "All About Fornication",
+      "author": "Dag Heward-Mills",
+      "collection": "Marriage, Family & Purity",
+      "file": "epubs/125-en-all-about-fornication.epub",
+      "cover": "covers/125-en-all-about-fornication.jpg"
+    },
+    {
+      "id": "121-en-beauty",
+      "title": "Beauty",
+      "author": "Dag Heward-Mills",
+      "collection": "Marriage, Family & Purity",
+      "file": "epubs/121-en-beauty.epub",
+      "cover": "covers/121-en-beauty.jpg"
+    },
+    {
+      "id": "048-en-daughter-you-can-make-it",
+      "title": "Daughter, You Can Make It",
+      "author": "Dag Heward-Mills",
+      "collection": "Marriage, Family & Purity",
+      "file": "epubs/048-en-daughter-you-can-make-it.epub",
+      "cover": "covers/048-en-daughter-you-can-make-it.png"
+    },
+    {
+      "id": "109-en-jezebel-a-woman-out-of-order",
+      "title": "JEZEBEL, A WOMAN OUT OF ORDER",
+      "author": "",
+      "collection": "Marriage, Family & Purity",
+      "file": "epubs/109-en-jezebel-a-woman-out-of-order.epub",
+      "cover": "covers/109-en-jezebel-a-woman-out-of-order.png"
+    },
+    {
+      "id": "104-en-model-marriage-a-marriage-counselling-handbook",
+      "title": "Model Marriage",
+      "author": "Dag Heward-Mills",
+      "collection": "Marriage, Family & Purity",
+      "file": "epubs/104-en-model-marriage-a-marriage-counselling-handbook.epub",
+      "cover": "covers/104-en-model-marriage-a-marriage-counselling-handbook.jpg"
+    },
+    {
+      "id": "124-en-the-strange-woman",
+      "title": "The Strange Woman",
+      "author": "Dag Heward-Mills",
+      "collection": "Marriage, Family & Purity",
+      "file": "epubs/124-en-the-strange-woman.epub",
+      "cover": "covers/124-en-the-strange-woman.jpg"
+    },
+    {
+      "id": "023-en-a-good-general-the-science-of-leadership",
+      "title": "A Good General",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/023-en-a-good-general-the-science-of-leadership.epub",
+      "cover": "covers/023-en-a-good-general-the-science-of-leadership.jpg"
+    },
+    {
+      "id": "053-en-attempt-great-things-for-god",
+      "title": "Attempt Great Things for God",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/053-en-attempt-great-things-for-god.epub",
+      "cover": "covers/053-en-attempt-great-things-for-god.jpg"
+    },
+    {
+      "id": "054-en-can-t-you-do-just-a-little-bit-more",
+      "title": "Can’t You Do Just a Little Bit More?",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/054-en-can-t-you-do-just-a-little-bit-more.epub",
+      "cover": "covers/054-en-can-t-you-do-just-a-little-bit-more.jpg"
+    },
+    {
+      "id": "040-en-church-administration",
+      "title": "Church Administration",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/040-en-church-administration.epub",
+      "cover": "covers/040-en-church-administration.jpeg"
+    },
+    {
+      "id": "077-en-going-deeper-and-doing-more",
+      "title": "Going Deeper and Doing More",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/077-en-going-deeper-and-doing-more.epub",
+      "cover": "covers/077-en-going-deeper-and-doing-more.png"
+    },
+    {
+      "id": "030-en-how-you-can-make-full-proof-of-your-ministry",
+      "title": "How You Can Make Full proof of Your Ministry",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/030-en-how-you-can-make-full-proof-of-your-ministry.epub",
+      "cover": "covers/030-en-how-you-can-make-full-proof-of-your-ministry.png"
+    },
+    {
+      "id": "034-en-it-is-a-great-thing-to-serve-the-lord",
+      "title": "IT IS A GREAT THING TO SERVE THE LORD",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/034-en-it-is-a-great-thing-to-serve-the-lord.epub",
+      "cover": "covers/034-en-it-is-a-great-thing-to-serve-the-lord.png"
+    },
+    {
+      "id": "012-en-laikos-lay-people-and-the-ministry",
+      "title": "Laikos Lay People and the Ministry",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/012-en-laikos-lay-people-and-the-ministry.epub",
+      "cover": "covers/012-en-laikos-lay-people-and-the-ministry.jpg"
+    },
+    {
+      "id": "068-en-lord-i-know-you-need-somebody",
+      "title": "Lord I Know You Need Somebody",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/068-en-lord-i-know-you-need-somebody.epub",
+      "cover": "covers/068-en-lord-i-know-you-need-somebody.png"
+    },
+    {
+      "id": "033-en-losing-suffering-sacrificing-dying",
+      "title": "Losing, Suffering, Sacrificing and Dying",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/033-en-losing-suffering-sacrificing-dying.epub",
+      "cover": "covers/033-en-losing-suffering-sacrificing-dying.png"
+    },
+    {
+      "id": "072-en-ministerial-barrenness",
+      "title": "Ministerial Barrenness",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/072-en-ministerial-barrenness.epub",
+      "cover": "covers/072-en-ministerial-barrenness.png"
+    },
+    {
+      "id": "035-en-ministerial-ethics-2nd-ed",
+      "title": "Ministerial Ethics",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/035-en-ministerial-ethics-2nd-ed.epub",
+      "cover": "covers/035-en-ministerial-ethics-2nd-ed.jpg"
+    },
+    {
+      "id": "079-en-not-a-novice",
+      "title": "Not A Novice",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/079-en-not-a-novice.epub",
+      "cover": "covers/079-en-not-a-novice.png"
+    },
+    {
+      "id": "038-en-rules-of-church-work-walking-worthy-2nd-ed",
+      "title": "Rules of Church Work (2nd Edition)",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/038-en-rules-of-church-work-walking-worthy-2nd-ed.epub",
+      "cover": "covers/038-en-rules-of-church-work-walking-worthy-2nd-ed.jpeg"
+    },
+    {
+      "id": "039-en-rules-of-full-time-ministry-2nd-ed",
+      "title": "Rules of Full Time Ministry (2nd edition)",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/039-en-rules-of-full-time-ministry-2nd-ed.epub",
+      "cover": "covers/039-en-rules-of-full-time-ministry-2nd-ed.jpeg"
+    },
+    {
+      "id": "022-en-the-art-of-leadership-3rd-edition",
+      "title": "The Art of Leadership - 3rd Edition",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/022-en-the-art-of-leadership-3rd-edition.epub",
+      "cover": "covers/022-en-the-art-of-leadership-3rd-edition.jpg"
+    },
+    {
+      "id": "018-en-the-art-of-shepherding",
+      "title": "The Art of Shepherding",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/018-en-the-art-of-shepherding.epub",
+      "cover": "covers/018-en-the-art-of-shepherding.png"
+    },
+    {
+      "id": "105-en-the-beauty-the-beast-and-the-pastor",
+      "title": "The Beauty The Beast and The Pastor",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/105-en-the-beauty-the-beast-and-the-pastor.epub",
+      "cover": "covers/105-en-the-beauty-the-beast-and-the-pastor.png"
+    },
+    {
+      "id": "097-en-the-big-secret-your-ministry-depends-on-books",
+      "title": "The Big Secret - Your Ministry Depends on Books",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/097-en-the-big-secret-your-ministry-depends-on-books.epub",
+      "cover": "covers/097-en-the-big-secret-your-ministry-depends-on-books.jpg"
+    },
+    {
+      "id": "117-en-the-gift-of-governments-a-bishop-s-governing-handbook",
+      "title": "THE GIFT OF GOVERNMENTS",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/117-en-the-gift-of-governments-a-bishop-s-governing-handbook.epub",
+      "cover": "covers/117-en-the-gift-of-governments-a-bishop-s-governing-handbook.jpg"
+    },
+    {
+      "id": "069-en-the-privilege",
+      "title": "THE PRIVILEGE",
+      "author": "DAG HEWARD-MILLS",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/069-en-the-privilege.epub",
+      "cover": "covers/069-en-the-privilege.jpg"
+    },
+    {
+      "id": "096-en-the-reward-for-hard-work-is-more-work",
+      "title": "The Reward for Hard Work is More Work",
+      "author": "Unknown",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/096-en-the-reward-for-hard-work-is-more-work.epub",
+      "cover": "covers/096-en-the-reward-for-hard-work-is-more-work.jpeg"
+    },
+    {
+      "id": "031-en-the-top-10-mistakes-pastors-make",
+      "title": "The Top Ten Mistakes that Pastors Make",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/031-en-the-top-10-mistakes-pastors-make.epub",
+      "cover": "covers/031-en-the-top-10-mistakes-pastors-make.png"
+    },
+    {
+      "id": "049-en-the-tree-and-your-ministry",
+      "title": "The Tree and Your Ministry",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/049-en-the-tree-and-your-ministry.epub",
+      "cover": "covers/049-en-the-tree-and-your-ministry.png"
+    },
+    {
+      "id": "017-en-transform-your-pastoral-ministry",
+      "title": "Transform Your Pastoral Ministry",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/017-en-transform-your-pastoral-ministry.epub",
+      "cover": "covers/017-en-transform-your-pastoral-ministry.png"
+    },
+    {
+      "id": "019-en-what-it-means-to-become-a-shepherd",
+      "title": "What It Means to Become a Shepherd",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/019-en-what-it-means-to-become-a-shepherd.epub",
+      "cover": "covers/019-en-what-it-means-to-become-a-shepherd.png"
+    },
+    {
+      "id": "070-en-wisdom-is-the-principal-thing-for-your-ministry",
+      "title": "Wisdom Is the Principle Thing For Your Minsitry",
+      "author": "Dag Heward-Mills",
+      "collection": "Ministry & Pastoring",
+      "file": "epubs/070-en-wisdom-is-the-principal-thing-for-your-ministry.epub",
+      "cover": "covers/070-en-wisdom-is-the-principal-thing-for-your-ministry.png"
+    },
+    {
+      "id": "041-en-100-answered-prayer-2nd-ed",
+      "title": "100% Answered Prayer",
+      "author": "Dag Heward-Mills",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/041-en-100-answered-prayer-2nd-ed.epub",
+      "cover": "covers/041-en-100-answered-prayer-2nd-ed.jpeg"
+    },
+    {
+      "id": "051-en-everything-by-prayer-nothing-without-prayer",
+      "title": "Everything By Prayer Nothing Without Prayer",
+      "author": "Dag Heward-Mills",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/051-en-everything-by-prayer-nothing-without-prayer.epub",
+      "cover": "covers/051-en-everything-by-prayer-nothing-without-prayer.jpg"
+    },
+    {
+      "id": "111-en-how-to-pray",
+      "title": "How to Pray",
+      "author": "Dag Heward-Mills",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/111-en-how-to-pray.epub",
+      "cover": "covers/111-en-how-to-pray.png"
+    },
+    {
+      "id": "046-en-how-you-can-have-an-effective-quiet-time-with-god-every-day",
+      "title": "How You Can Have an Effective Quiet Time with God Every Day",
+      "author": "Dag Heward-Mills",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/046-en-how-you-can-have-an-effective-quiet-time-with-god-every-day.epub",
+      "cover": "covers/046-en-how-you-can-have-an-effective-quiet-time-with-god-every-day.png"
+    },
+    {
+      "id": "086-en-prayer-changes-things-prayer-secrets",
+      "title": "Prayer Changes Things",
+      "author": "Dag Heward-Mills",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/086-en-prayer-changes-things-prayer-secrets.epub",
+      "cover": "covers/086-en-prayer-changes-things-prayer-secrets.png"
+    },
+    {
+      "id": "098-en-prayer-opportunities",
+      "title": "Prayer Opportunities",
+      "author": "Dag Heward-Mills",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/098-en-prayer-opportunities.epub",
+      "cover": "covers/098-en-prayer-opportunities.jpeg"
+    },
+    {
+      "id": "115-en-read-your-bible-pray-everyday-if-you-want-to-grow",
+      "title": "Read your Bible Pray Everyday",
+      "author": "Dag Heward-Mills",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/115-en-read-your-bible-pray-everyday-if-you-want-to-grow.epub",
+      "cover": "covers/115-en-read-your-bible-pray-everyday-if-you-want-to-grow.png"
+    },
+    {
+      "id": "081-en-seeing-and-hearing",
+      "title": "SEEING AND HEARING",
+      "author": "DAG HEWARD-MILLS",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/081-en-seeing-and-hearing.epub",
+      "cover": "covers/081-en-seeing-and-hearing.jpg"
+    },
+    {
+      "id": "114-en-steps-to-god-s-presence",
+      "title": "Steps to God's Presence",
+      "author": "Dag Heward-Mills",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/114-en-steps-to-god-s-presence.epub",
+      "cover": "covers/114-en-steps-to-god-s-presence.jpg"
+    },
+    {
+      "id": "021-en-the-art-of-hearing-how-to-be-in-the-perfect-will-of-god-2nd-ed",
+      "title": "The Art of Hearing",
+      "author": "Dag Heward-Mills",
+      "collection": "Prayer & God's Presence",
+      "file": "epubs/021-en-the-art-of-hearing-how-to-be-in-the-perfect-will-of-god-2nd-ed.epub",
+      "cover": "covers/021-en-the-art-of-hearing-how-to-be-in-the-perfect-will-of-god-2nd-ed.png"
+    },
+    {
+      "id": "085-en-awake-o-sleeper",
+      "title": "Awake, O Sleeper",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/085-en-awake-o-sleeper.epub",
+      "cover": "covers/085-en-awake-o-sleeper.jpg"
+    },
+    {
+      "id": "047-en-backsliding-develop-your-staying-power",
+      "title": "Backsliding",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/047-en-backsliding-develop-your-staying-power.epub",
+      "cover": "covers/047-en-backsliding-develop-your-staying-power.png"
+    },
+    {
+      "id": "120-en-bearing-fruit",
+      "title": "Bearing Fruit After Your Kind",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/120-en-bearing-fruit.epub",
+      "cover": "covers/120-en-bearing-fruit.png"
+    },
+    {
+      "id": "064-en-bema-judgment-and-justice",
+      "title": "BEMA Judgment And Justice",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/064-en-bema-judgment-and-justice.epub",
+      "cover": "covers/064-en-bema-judgment-and-justice.jpg"
+    },
+    {
+      "id": "065-en-fruitfulness",
+      "title": "FRUITFULNESS (2022)",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/065-en-fruitfulness.epub",
+      "cover": "covers/065-en-fruitfulness.jpeg"
+    },
+    {
+      "id": "044-en-how-to-be-born-again-and-avoid-hell",
+      "title": "How to be Born again & Avoid Hell",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/044-en-how-to-be-born-again-and-avoid-hell.epub",
+      "cover": "covers/044-en-how-to-be-born-again-and-avoid-hell.png"
+    },
+    {
+      "id": "045-en-how-you-can-become-a-strong-christian",
+      "title": "How you can become a strong Christian",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/045-en-how-you-can-become-a-strong-christian.epub",
+      "cover": "covers/045-en-how-you-can-become-a-strong-christian.png"
+    },
+    {
+      "id": "073-en-if-you-love-the-lord",
+      "title": "IF YOU LOVE THE LORD",
+      "author": "DAG HEWARD-MILLS",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/073-en-if-you-love-the-lord.epub",
+      "cover": "covers/073-en-if-you-love-the-lord.jpeg"
+    },
+    {
+      "id": "126-en-key-facts-for-new-believers",
+      "title": "Key Facts for New Believers",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/126-en-key-facts-for-new-believers.epub",
+      "cover": "covers/126-en-key-facts-for-new-believers.jpeg"
+    },
+    {
+      "id": "087-en-people-who-went-to-hell",
+      "title": "People Who Went to Hell",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/087-en-people-who-went-to-hell.epub",
+      "cover": "covers/087-en-people-who-went-to-hell.png"
+    },
+    {
+      "id": "071-en-predestination",
+      "title": "PREDESTINATION",
+      "author": "DAG HEWARD-MILLS",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/071-en-predestination.epub",
+      "cover": "covers/071-en-predestination.jpeg"
+    },
+    {
+      "id": "078-en-weeping-and-gnashing",
+      "title": "Weeping and Gnashing",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/078-en-weeping-and-gnashing.epub",
+      "cover": "covers/078-en-weeping-and-gnashing.png"
+    },
+    {
+      "id": "108-en-who-is-he-that-overcometh-the-world",
+      "title": "Who Is He That Overcometh the World",
+      "author": "Dag Heward-Mills",
+      "collection": "Salvation & Eternity",
+      "file": "epubs/108-en-who-is-he-that-overcometh-the-world.epub",
+      "cover": "covers/108-en-who-is-he-that-overcometh-the-world.jpg"
+    },
+    {
+      "id": "106-en-blood-power-the-blood-of-jesus",
+      "title": "Blood Power",
+      "author": "Dag Heward-Mills",
+      "collection": "Spiritual Warfare",
+      "file": "epubs/106-en-blood-power-the-blood-of-jesus.epub",
+      "cover": "covers/106-en-blood-power-the-blood-of-jesus.png"
+    },
+    {
+      "id": "043-en-demons-and-how-to-deal-with-them",
+      "title": "Demons and How to Deal with Them",
+      "author": "Dag Heward-Mills",
+      "collection": "Spiritual Warfare",
+      "file": "epubs/043-en-demons-and-how-to-deal-with-them.epub",
+      "cover": "covers/043-en-demons-and-how-to-deal-with-them.png"
+    },
+    {
+      "id": "107-en-how-to-neutralize-curses",
+      "title": "How To Neutralize Curses",
+      "author": "Dag Heward-Mills",
+      "collection": "Spiritual Warfare",
+      "file": "epubs/107-en-how-to-neutralize-curses.epub",
+      "cover": "covers/107-en-how-to-neutralize-curses.png"
+    },
+    {
+      "id": "116-en-know-your-invisible-enemies-and-defeat-them",
+      "title": "Know Your Invisible Enemies",
+      "author": "Dag Heward-Mills",
+      "collection": "Spiritual Warfare",
+      "file": "epubs/116-en-know-your-invisible-enemies-and-defeat-them.epub",
+      "cover": "covers/116-en-know-your-invisible-enemies-and-defeat-them.png"
+    },
+    {
+      "id": "089-en-now-we-are-at-war",
+      "title": "NOW WE ARE AT WAR",
+      "author": "Dag Heward-Mills",
+      "collection": "Spiritual Warfare",
+      "file": "epubs/089-en-now-we-are-at-war.epub",
+      "cover": "covers/089-en-now-we-are-at-war.jpg"
+    },
+    {
+      "id": "100-en-spiritual-dangers",
+      "title": "Spiritual Dangers",
+      "author": "Dag Heward-Mills",
+      "collection": "Spiritual Warfare",
+      "file": "epubs/100-en-spiritual-dangers.epub",
+      "cover": "covers/100-en-spiritual-dangers.png"
+    },
+    {
+      "id": "011-en-amplify-your-ministry",
+      "title": "Amplify Your Ministry with Miracles And Manifestations Of The Holy Spirit",
+      "author": "Dag Heward-Mills",
+      "collection": "The Anointing",
+      "file": "epubs/011-en-amplify-your-ministry.epub",
+      "cover": "covers/011-en-amplify-your-ministry.png"
+    },
+    {
+      "id": "015-en-catch-the-anointing",
+      "title": "Catch The Anointing",
+      "author": "",
+      "collection": "The Anointing",
+      "file": "epubs/015-en-catch-the-anointing.epub",
+      "cover": "covers/015-en-catch-the-anointing.png"
+    },
+    {
+      "id": "061-en-flow-in-the-anointing",
+      "title": "Flow in the Anointing",
+      "author": "DAG HEWARD-MILLS",
+      "collection": "The Anointing",
+      "file": "epubs/061-en-flow-in-the-anointing.epub",
+      "cover": "covers/061-en-flow-in-the-anointing.jpg"
+    },
+    {
+      "id": "013-en-steps-to-the-anointing",
+      "title": "Steps to the Anointing",
+      "author": "Dag Heward-Mills",
+      "collection": "The Anointing",
+      "file": "epubs/013-en-steps-to-the-anointing.epub",
+      "cover": "covers/013-en-steps-to-the-anointing.png"
+    },
+    {
+      "id": "080-en-stir-it-up",
+      "title": "Stir It Up",
+      "author": "Dag Heward-Mills",
+      "collection": "The Anointing",
+      "file": "epubs/080-en-stir-it-up.epub",
+      "cover": "covers/080-en-stir-it-up.jpg"
+    },
+    {
+      "id": "016-en-the-anointed-and-his-anointing",
+      "title": "The Anointed and His Anointing",
+      "author": "Dag Heward-Mills",
+      "collection": "The Anointing",
+      "file": "epubs/016-en-the-anointed-and-his-anointing.epub",
+      "cover": "covers/016-en-the-anointed-and-his-anointing.png"
+    },
+    {
+      "id": "059-en-the-anointing-and-the-presence",
+      "title": "The Anointing and the Presence",
+      "author": "Dag Heward-Mills",
+      "collection": "The Anointing",
+      "file": "epubs/059-en-the-anointing-and-the-presence.epub",
+      "cover": "covers/059-en-the-anointing-and-the-presence.jpg"
+    },
+    {
+      "id": "103-en-the-love-of-the-spirit",
+      "title": "The Love of the Spirit",
+      "author": "Dag Heward-Mills",
+      "collection": "The Anointing",
+      "file": "epubs/103-en-the-love-of-the-spirit.epub",
+      "cover": "covers/103-en-the-love-of-the-spirit.jpg"
+    },
+    {
+      "id": "014-en-sweet-influences-of-the-anointing",
+      "title": "The Sweet Influences of the Anointing",
+      "author": "Dag Heward-Mills",
+      "collection": "The Anointing",
+      "file": "epubs/014-en-sweet-influences-of-the-anointing.epub",
+      "cover": "covers/014-en-sweet-influences-of-the-anointing.png"
+    }
+  ]
+}

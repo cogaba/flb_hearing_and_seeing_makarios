@@ -1,0 +1,4 @@
+Put your .epub book files in this folder.
+
+Optional: make sub-folders named by collection (e.g. Prayer, Leadership, Marriage)
+and put books inside them. Then run the catalog script (Python or R).
