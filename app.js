@@ -7,6 +7,9 @@
   const BOOK_BY_ID = {};
   let activeCollection = "All";
   let query = "";
+  // Apple devices (iPhone/iPad) → open books in Apple Books; desktop → in-app reader
+  const IS_APPLE = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+                   (navigator.maxTouchPoints > 1 && /Macintosh|Mac OS X/.test(navigator.userAgent));
 
   /* ---------- service worker ---------- */
   if ("serviceWorker" in navigator) {
@@ -85,10 +88,16 @@
   }
 
   function card(b) {
-    const el = document.createElement("button");
+    const el = document.createElement(IS_APPLE ? "a" : "button");
     el.className = "book";
-    el.type = "button";
-    el.onclick = () => openReader(b);
+    if (IS_APPLE) {
+      el.href = encodeURI(b.file);          // iPhone/iPad: hand the EPUB to Apple Books
+      el.style.textDecoration = "none";
+      el.style.color = "inherit";
+    } else {
+      el.type = "button";
+      el.onclick = () => openReader(b);     // desktop: read inside the app
+    }
     el.innerHTML =
       `<div class="cover" data-id="${b.id}"><img alt="" hidden><span class="saved-dot"></span></div>` +
       `<p class="b-title">${escapeHtml(b.title)}</p>` +
