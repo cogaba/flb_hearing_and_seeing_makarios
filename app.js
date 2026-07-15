@@ -87,18 +87,11 @@
     observeCovers();
   }
 
-  // Installed (Home Screen) app has no back button, so never navigate away from the library.
-  const isStandalone = () =>
-    window.navigator.standalone === true ||
-    window.matchMedia("(display-mode: standalone)").matches;
-
   function card(b) {
     const el = document.createElement(IS_APPLE ? "a" : "button");
     el.className = "book";
     if (IS_APPLE) {
-      el.href = encodeURI(b.file);          // iPhone/iPad: hand the EPUB to Apple Books
-      el.target = "_blank";                 // open elsewhere so the library stays put
-      el.rel = "noopener";
+      el.href = encodeURI(b.file);          // iPhone/iPad: hand the EPUB straight to Apple Books
       el.style.textDecoration = "none";
       el.style.color = "inherit";
     } else {
