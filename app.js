@@ -92,28 +92,15 @@
     window.navigator.standalone === true ||
     window.matchMedia("(display-mode: standalone)").matches;
 
-  let handoffFrame = null;
-  function handOffToBooks(b) {
-    if (handoffFrame) { try { handoffFrame.remove(); } catch (_) {} }
-    handoffFrame = document.createElement("iframe");
-    handoffFrame.style.display = "none";
-    handoffFrame.src = encodeURI(b.file);
-    document.body.appendChild(handoffFrame);
-    showToast("Opening “" + b.title + "” in Books…");
-  }
-
   function card(b) {
     const el = document.createElement(IS_APPLE ? "a" : "button");
     el.className = "book";
     if (IS_APPLE) {
       el.href = encodeURI(b.file);          // iPhone/iPad: hand the EPUB to Apple Books
+      el.target = "_blank";                 // open elsewhere so the library stays put
+      el.rel = "noopener";
       el.style.textDecoration = "none";
       el.style.color = "inherit";
-      el.addEventListener("click", (e) => {
-        if (!isStandalone()) return;        // Safari tab: normal link (Safari has a back button)
-        e.preventDefault();                 // Installed app: keep the library on screen
-        handOffToBooks(b);
-      });
     } else {
       el.type = "button";
       el.onclick = () => openReader(b);     // desktop: read inside the app
